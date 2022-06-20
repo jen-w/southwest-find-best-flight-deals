@@ -1,0 +1,223 @@
+departing	international	destination	date	price
+OAK	no	Amarillo, TX	8/03	205
+OAK	no	Bellingham (approx. 50mi from Vancouver, BC), WA	7/10	64
+OAK	no	Birmingham, AL	11/01	227
+OAK	no	Boise, ID	9/13	89
+OAK	no	Boston (Logan), MA	11/08	218
+OAK	no	Bozeman/Yellowstone, MT	11/08	114
+OAK	no	Burbank, CA	7/12	59
+OAK	yes	Cancun, Mexico	9/06	241
+OAK	no	Charleston, SC	12/02	203
+OAK	no	Charlotte, NC	10/29	227
+OAK	no	Chicago (Midway), IL	9/20	178
+OAK	no	Chicago (O’Hare), IL	9/13	188
+OAK	no	Cincinnati, OH	11/16	199
+OAK	no	Cleveland, OH	12/09	217
+OAK	no	Colorado Springs, CO	8/02	98
+OAK	no	Corpus Christi, TX	8/14	227
+OAK	no	Dallas (Love Field), TX	9/08	104
+OAK	no	Denver, CO	7/12	126
+OAK	no	Des Moines, IA	9/07	194
+OAK	no	Destin/Fort Walton Beach, FL	8/29	219
+OAK	no	Detroit, MI	11/08	227
+OAK	no	Eugene, OR	7/04	84
+OAK	no	Grand Rapids, MI	10/29	227
+OAK	no	Harlingen, TX	9/14	227
+OAK	no	Hartford, CT	12/05	221
+OAK	no	Hilo (Hawaii Island), HI	8/28	209
+OAK	no	Honolulu (Oahu), HI	8/29	163
+OAK	no	Houston (Bush-Intercontl), TX	12/01	168
+OAK	no	Houston (Hobby), TX	8/24	149
+OAK	no	Jackson, MS	9/14	213
+OAK	no	Jacksonville, FL	11/01	198
+OAK	no	Kahului (Maui), HI	8/09	159
+OAK	no	Kansas City, MO	10/31	195
+OAK	no	Kona (Hawaii Island), HI	8/29	159
+OAK	no	Las Vegas, NV	7/11	49
+OAK	no	Lihue (Kauai), HI	8/02	179
+OAK	no	Long Beach, CA	7/12	59
+OAK	no	Los Angeles, CA	7/03	49
+OAK	yes	Los Cabos, MX	8/14	202
+OAK	no	Louisville, KY	11/09	232
+OAK	no	Memphis, TN	10/19	232
+OAK	no	Miami, FL	8/29	193
+OAK	no	Midland/Odessa, TX	8/10	205
+OAK	no	Milwaukee, WI	10/26	232
+OAK	no	Montrose (Telluride/Crested Butte), CO	8/28	169
+OAK	no	Myrtle Beach, SC	11/06	209
+OAK	no	Nashville, TN	8/20	191
+OAK	no	New Orleans, LA	9/20	209
+OAK	no	Norfolk, VA	11/06	227
+OAK	no	Oklahoma City, OK	11/09	173
+OAK	no	Omaha, NE	9/13	198
+OAK	no	Ontario/LA, CA	7/12	69
+OAK	no	Orange County/Santa Ana, CA	7/12	74
+OAK	no	Palm Springs, CA	7/10	79
+OAK	no	Panama City Beach, FL	11/30	233
+OAK	no	Pensacola, FL	8/23	233
+OAK	no	Philadelphia, PA	11/08	228
+OAK	no	Phoenix, AZ	8/17	79
+OAK	no	Portland, OR	8/13	79
+OAK	no	Providence, RI	11/08	204
+OAK	yes	Puerto Vallarta, MX	8/07	159
+OAK	no	Raleigh/Durham, NC	11/09	228
+OAK	no	Richmond, VA	11/08	149
+OAK	no	Rochester, NY	12/05	232
+OAK	no	Salt Lake City, UT	9/20	89
+OAK	no	San Diego, CA	7/10	59
+OAK	no	Santa Barbara, CA	7/11	89
+OAK	no	Sarasota/Bradenton, FL	8/29	192
+OAK	no	Savannah/Hilton Head, GA	10/25	176
+OAK	no	Seattle/Tacoma, WA	9/13	69
+OAK	no	Spokane, WA	7/12	109
+OAK	no	St. Louis, MO	10/23	195
+OAK	no	Steamboat Springs (Hayden), CO	8/13	157
+OAK	no	Tampa, FL	9/13	253
+OAK	no	Tucson, AZ	7/12	123
+OAK	no	Tulsa, OK	8/17	216
+OAK	no	Washington (Dulles), DC	11/01	224
+OAK	no	Washington (Reagan National), DC	11/09	223
+OAK	no	Wichita, KS	9/13	216
+SJC	no	Albuquerque, NM	7/19	144
+SJC	no	Amarillo, TX	7/20	205
+SJC	no	Austin, TX	8/24	169
+SJC	no	Baltimore/Washington, MD	10/04	219
+SJC	no	Bellingham (approx. 50mi from Vancouver, BC), WA	9/13	149
+SJC	no	Birmingham, AL	12/01	227
+SJC	no	Boise, ID	9/13	79
+SJC	no	Boston (Logan), MA	11/09	179
+SJC	no	Bozeman/Yellowstone, MT	7/19	134
+SJC	no	Burbank, CA	7/12	59
+SJC	yes	Cancun, Mexico	8/10	289
+SJC	no	Charleston, SC	12/13	219
+SJC	no	Charlotte, NC	10/29	172
+SJC	no	Chicago (Midway), IL	10/26	170
+SJC	no	Chicago (O’Hare), IL	9/13	179
+SJC	no	Cleveland, OH	11/12	232
+SJC	no	Colorado Springs, CO	8/02	115
+SJC	no	Columbus, OH	12/04	227
+SJC	no	Corpus Christi, TX	9/07	232
+SJC	no	Denver, CO	7/12	126
+SJC	no	Des Moines, IA	9/28	184
+SJC	no	Destin/Fort Walton Beach, FL	9/20	248
+SJC	no	Detroit, MI	10/29	227
+SJC	no	Eugene, OR	7/23	99
+SJC	no	Harlingen, TX	8/24	227
+SJC	no	Hilo (Hawaii Island), HI	9/06	189
+SJC	no	Honolulu (Oahu), HI	8/28	153
+SJC	no	Houston (Bush-Intercontl), TX	8/20	204
+SJC	no	Houston (Hobby), TX	8/24	195
+SJC	no	Indianapolis, IN	12/01	227
+SJC	no	Jackson, MS	9/07	213
+SJC	no	Jacksonville, FL	10/28	227
+SJC	no	Kahului (Maui), HI	8/23	129
+SJC	no	Kona (Hawaii Island), HI	8/23	119
+SJC	no	Las Vegas, NV	7/10	59
+SJC	no	Lihue (Kauai), HI	8/30	119
+SJC	no	Little Rock, AR	9/13	194
+SJC	no	Long Beach, CA	7/12	59
+SJC	no	Los Angeles, CA	7/03	49
+SJC	yes	Los Cabos, MX	8/07	172
+SJC	no	Louisville, KY	10/26	227
+SJC	no	Manchester, NH	12/04	179
+SJC	no	Memphis, TN	8/13	227
+SJC	no	Miami, FL	8/30	211
+SJC	no	Midland/Odessa, TX	8/04	205
+SJC	no	Milwaukee, WI	10/18	227
+SJC	no	Montrose (Telluride/Crested Butte), CO	9/06	173
+SJC	no	Nashville, TN	9/11	195
+SJC	no	New Orleans, LA	11/30	179
+SJC	no	New York (LaGuardia), NY	10/26	205
+SJC	no	Norfolk, VA	12/01	227
+SJC	no	Oklahoma City, OK	8/30	179
+SJC	no	Omaha, NE	9/13	179
+SJC	no	Ontario/LA, CA	7/12	69
+SJC	no	Orange County/Santa Ana, CA	7/12	79
+SJC	no	Palm Springs, CA	7/11	88
+SJC	no	Panama City Beach, FL	10/30	208
+SJC	no	Pensacola, FL	10/25	208
+SJC	no	Philadelphia, PA	12/01	210
+SJC	no	Phoenix, AZ	7/11	99
+SJC	no	Portland, OR	7/10	99
+SJC	yes	Puerto Vallarta, MX	8/07	157
+SJC	no	Reno/Tahoe, NV	7/10	84
+SJC	no	Rochester, NY	11/12	227
+SJC	no	Salt Lake City, UT	7/12	94
+SJC	no	San Antonio, TX	9/13	188
+SJC	no	San Diego, CA	7/03	49
+SJC	no	Santa Barbara, CA	7/11	141
+SJC	no	Sarasota/Bradenton, FL	12/04	223
+SJC	no	Savannah/Hilton Head, GA	9/13	253
+SJC	no	Seattle/Tacoma, WA	7/26	89
+SJC	no	Spokane, WA	7/12	119
+SJC	no	St. Louis, MO	8/30	178
+SJC	no	Steamboat Springs (Hayden), CO	9/11	157
+SJC	no	Tulsa, OK	8/30	179
+SJC	no	Washington (Dulles), DC	10/25	177
+SJC	no	Washington (Reagan National), DC	11/01	177
+SJC	no	Wichita, KS	9/28	184
+SFO	no	Albuquerque, NM	8/02	172
+SFO	no	Amarillo, TX	8/10	205
+SFO	no	Atlanta, GA	9/10	227
+SFO	no	Austin, TX	8/09	178
+SFO	no	Bellingham (approx. 50mi from Vancouver, BC), WA	9/13	149
+SFO	no	Boise, ID	8/24	119
+SFO	no	Bozeman/Yellowstone, MT	8/23	108
+SFO	no	Burbank, CA	7/12	59
+SFO	yes	Cancun, Mexico	8/25	287
+SFO	no	Charleston, SC	11/09	203
+SFO	no	Chicago (Midway), IL	9/20	178
+SFO	no	Chicago (O’Hare), IL	10/18	178
+SFO	no	Cincinnati, OH	12/02	199
+SFO	no	Colorado Springs, CO	8/16	129
+SFO	no	Corpus Christi, TX	8/13	253
+SFO	no	Des Moines, IA	9/14	185
+SFO	no	Detroit, MI	9/10	227
+SFO	no	Eugene, OR	9/13	113
+SFO	no	Harlingen, TX	8/23	232
+SFO	no	Honolulu (Oahu), HI	11/14	174
+SFO	no	Houston (Bush-Intercontl), TX	8/24	158
+SFO	no	Houston (Hobby), TX	9/20	168
+SFO	no	Kahului (Maui), HI	11/29	173
+SFO	no	Kansas City, MO	9/07	204
+SFO	no	Kona (Hawaii Island), HI	10/31	168
+SFO	no	Las Vegas, NV	7/19	49
+SFO	no	Lihue (Kauai), HI	10/31	188
+SFO	no	Long Beach, CA	7/12	53
+SFO	no	Los Angeles, CA	7/03	44
+SFO	yes	Los Cabos, MX	8/02	171
+SFO	no	Louisville, KY	9/10	227
+SFO	no	Memphis, TN	9/07	227
+SFO	no	Miami, FL	11/16	203
+SFO	no	Midland/Odessa, TX	8/10	205
+SFO	no	Minneapolis/St. Paul , MN	10/26	169
+SFO	no	Montrose (Telluride/Crested Butte), CO	8/21	169
+SFO	no	Nashville, TN	10/26	204
+SFO	no	New Orleans, LA	11/09	189
+SFO	no	New York (LaGuardia), NY	11/09	197
+SFO	no	Oklahoma City, OK	9/10	149
+SFO	no	Omaha, NE	8/24	198
+SFO	no	Orange County/Santa Ana, CA	7/19	83
+SFO	no	Orlando, FL	8/30	254
+SFO	no	Palm Springs, CA	8/02	88
+SFO	no	Philadelphia, PA	11/12	227
+SFO	no	Phoenix, AZ	8/16	64
+SFO	no	Pittsburgh, PA	10/22	248
+SFO	no	Portland, OR	10/18	123
+SFO	yes	Puerto Vallarta, MX	8/02	177
+SFO	no	Raleigh/Durham, NC	11/02	235
+SFO	no	Reno/Tahoe, NV	7/11	169
+SFO	no	Salt Lake City, UT	8/10	50
+SFO	no	San Antonio, TX	10/05	178
+SFO	no	San Diego, CA	7/10	59
+SFO	no	Santa Barbara, CA	7/12	88
+SFO	no	Sarasota/Bradenton, FL	9/07	291
+SFO	no	Seattle/Tacoma, WA	10/25	124
+SFO	no	Spokane, WA	8/24	114
+SFO	no	St. Louis, MO	11/01	199
+SFO	no	Steamboat Springs (Hayden), CO	8/13	157
+SFO	no	Tucson, AZ	7/12	123
+SFO	no	Tulsa, OK	8/17	216
+SFO	no	Washington (Dulles), DC	11/01	218
+SFO	no	Washington (Reagan National), DC	10/25	223
+SFO	no	Wichita, KS	8/13	216

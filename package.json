@@ -1,0 +1,14 @@
+{
+  "name": "find-best-flight-deals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
